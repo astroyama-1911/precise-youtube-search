@@ -1,37 +1,44 @@
-# precise-youtube-search
+# Precise YouTube Search
 Made with Chat GPT v3.5
 
-Prerequisites:
+## Prerequisites :
 
 Python installed on your machine.
-Google API Key: Replace 'YOUR_API_KEY' with your actual YouTube Data API key.
-Instructions:
+Edit on line Google API Key: Replace 'YOUR_API_KEY' with your actual YouTube Data API key.
+(https://console.cloud.google.com/apis/dashboard)
 
-Clone the repository:
+## Instructions :
 
-bash
-Copy code
+Clone the repository :
+
+```
 git clone <repository_url>
-Open the terminal and navigate to the project directory:
+```
 
-bash
-Copy code
+Open the terminal and navigate to the project directory :
+
+```
 cd precise-youtube-search
-Install the required packages:
+```
 
-bash
-Copy code
+Install the required packages :
+
+```
 pip install google-api-python-client
-Run the script:
+```
 
-bash
-Copy code
-python your_script_name.py
-Replace your_script_name.py with the actual name of your Python script.
+Run the script :
+
+```
+python precise_youtube_search.py
+```
 
 Follow the on-screen instructions to generate random YouTube links.
 
-Notes:
-Make sure to keep your API key secure and never share it in public repositories.
-Update your README as needed, providing clear instructions and information about your project.
-Now your code is hosted on GitHub, and users can easily clone, contribute, or use your project!
+You can now see your generated links in /precise-youtube-search/precise_youtube_search.txt
+
+## Notes :
+If the code generate the txt file but there is no links in it, just wait and retry later (idk why this can happen, maybe some api rate limit sh*t)
+
+# Screenshots :
+![Presentation](https://files.catbox.moe/omodod.png)
