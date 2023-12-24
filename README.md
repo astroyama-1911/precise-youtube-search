@@ -1,5 +1,6 @@
 # Precise YouTube Search
 Made with Chat GPT v3.5
+![Presentation](https://files.catbox.moe/omodod.png)
 
 ## Prerequisites :
 
@@ -39,6 +40,3 @@ You can now see your generated links in /precise-youtube-search/precise_youtube_
 
 ## Notes :
 If the code generate the txt file but there is no links in it, just wait and retry later (idk why this can happen, maybe some api rate limit sh*t)
-
-# Screenshots :
-![Presentation](https://files.catbox.moe/omodod.png)
