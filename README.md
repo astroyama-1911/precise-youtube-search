@@ -13,7 +13,7 @@ Edit on line Google API Key: Replace 'YOUR_API_KEY' with your actual YouTube Dat
 Clone the repository :
 
 ```
-git clone <repository_url>
+git clone [<repository_url>](https://github.com/astroyama-1911/precise-youtube-search.git)
 ```
 
 Open the terminal and navigate to the project directory :
