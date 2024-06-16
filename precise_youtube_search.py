@@ -3,7 +3,7 @@ from googleapiclient.discovery import build
 from googleapiclient.errors import HttpError
 from datetime import datetime
 
-API_KEY = 'TOUR API KEY'
+API_KEY = 'YOUR API KEY'
 youtube = build('youtube', 'v3', developerKey=API_KEY)
 
 def display_ascii_art():
